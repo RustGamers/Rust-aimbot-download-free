@@ -1,0 +1,9 @@
+﻿[2023-10-19 19:27:44.417] [info   ] [DULib      ] [15212:14064] [2DEBAF: 219] [23.2.1118.0] [DeviceManager.cpp] [219] DriverUpdater::DeviceManager::Init: Initialize Update Engine
+[2023-10-19 19:35:48.917] [info   ] [DULib      ] [15212:22768] [0AD7F6:1422] [23.2.1118.0] [DriverUpdater.cpp] [1422] DriverUpdater::DriverUpdaterImpl::logTask: Creating new SCAN Task
+[2023-10-19 19:35:48.921] [info   ] [DULib      ] [15212:20752] [0AD7F6:2122] [23.2.1118.0] [DriverUpdater.cpp] [2122] DriverUpdater::DriverUpdaterImpl::Scan: Starting Scan
+[2023-10-19 19:35:56.497] [info   ] [DULib      ] [15212:20752] [0AD7F6:2153] [23.2.1118.0] [DriverUpdater.cpp] [2153] DriverUpdater::DriverUpdaterImpl::Scan: We found 88 Devices on your system.
+[2023-10-19 19:35:57.798] [info   ] [DULib      ] [15212:20752] [0AD7F6:2170] [23.2.1118.0] [DriverUpdater.cpp] [2170] DriverUpdater::DriverUpdaterImpl::Scan: For your computer 786 related drivers are available - 13 are newer
+[2023-10-19 19:35:57.798] [info   ] [DULib      ] [15212:20752] [0AD7F6:2171] [23.2.1118.0] [DriverUpdater.cpp] [2171] DriverUpdater::DriverUpdaterImpl::Scan: 0 drivers are vulnerable
+[2023-10-20 15:20:37.747] [info   ] [DULib      ] [ 5692: 7324] [2DEBAF: 219] [23.2.1118.0] [DeviceManager.cpp] [219] DriverUpdater::DeviceManager::Init: Initialize Update Engine
+[2023-10-20 15:34:27.652] [info   ] [DULib      ] [ 9444:16604] [2DEBAF: 219] [23.2.1118.0] [DeviceManager.cpp] [219] DriverUpdater::DeviceManager::Init: Initialize Update Engine
+[2023-10-20 15:34:44.003] [info   ] [DULib      ] [23004: 9752] [2DEBAF: 219] [23.2.1118.0] [DeviceManager.cpp] [219] DriverUpdater::DeviceManager::Init: Initialize Update Engine

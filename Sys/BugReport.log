@@ -1,0 +1,23 @@
+﻿[2023-10-20 19:27:01.848] [notice ] [bug_report ] [10316: 2956] [60E748: 319] BugReport started.
+[2023-10-20 19:27:01.848] [notice ] [bug_report ] [10316: 2956] [60E748:  88]  - valid package type found in [send]: 0
+[2023-10-20 19:27:01.848] [notice ] [bug_report ] [10316: 2956] [60E748:  88]  - valid package type found in [send]: 2
+[2023-10-20 19:27:01.848] [notice ] [bug_report ] [10316: 2956] [60E748: 103]  - setting [product] to 90
+[2023-10-20 19:27:01.848] [notice ] [bug_report ] [10316: 2956] [60E748: 112]  - setting [path] to C:\Program Files\CCleaner\LOG
+[2023-10-20 19:27:01.848] [notice ] [bug_report ] [10316: 2956] [60E748: 121]  - setting [programpath] to C:\Program Files\CCleaner
+[2023-10-20 19:27:01.849] [notice ] [bug_report ] [10316: 2956] [60E748: 125]  - setting [configpath] to C:\Program Files\CCleaner\Setup
+[2023-10-20 19:27:01.849] [notice ] [bug_report ] [10316: 2956] [60E748: 145]  - setting [version] to 6.17.10746
+[2023-10-20 19:27:01.849] [notice ] [bug_report ] [10316: 2956] [60E748: 149]  - setting [guid] to ba644139-e606-4186-88b2-72988178fa1a
+[2023-10-20 19:27:01.849] [notice ] [bug_report ] [10316: 2956] [60E748: 181]  - setting [silent]
+[2023-10-20 19:27:01.850] [warning] [crashguard ] [10316: 2956] [4AF4BF: 262] Process dumper doesn't exist in path 'C:\Program Files\CCleaner'.
+[2023-10-20 19:27:01.851] [notice ] [crashguard ] [10316: 3964] [FF32C0: 180] Process monitoring installed.
+[2023-10-20 19:27:01.871] [notice ] [bug_report ] [10316: 2956] [60E748: 396] Processing package type (0)
+[2023-10-20 19:27:01.872] [notice ] [bug_report ] [10316: 2956] [8BAFB8: 104] {PackageType_0} Done submitting dumps with result: 1
+[2023-10-20 19:27:01.872] [notice ] [bug_report ] [10316: 2956] [60E748: 396] Processing package type (2)
+[2023-10-20 19:27:01.874] [notice ] [bug_report ] [10316: 2956] [451BD4:  52] {PackageType_2::LogFilesWithReport-90-6.17.10746} About to submit payload of type (2.102)
+[2023-10-20 19:27:01.874] [warning] [sb         ] [10316: 2956] [AF8487:  22] {PackageType_2::LogFilesWithReport-90-6.17.10746} Couldn't get installation info.
+[2023-10-20 19:27:01.875] [warning] [sb         ] [10316: 2956] [AF8487:  89] {PackageType_2::LogFilesWithReport-90-6.17.10746} InitAvastIdentity was not able to get running program version
+[2023-10-20 19:27:03.086] [notice ] [bug_report ] [10316: 2956] [451BD4:  67] {PackageType_2::LogFilesWithReport-90-6.17.10746} * Metadata submitted and we don't want this payload. Marking as reported.
+[2023-10-20 19:27:03.086] [notice ] [bug_report ] [10316: 2956] [8BAFB8: 174] {PackageType_2::LogFilesWithReport-90-6.17.10746} Payload was NOT submitted
+[2023-10-20 19:27:03.086] [notice ] [bug_report ] [10316: 2956] [60E748: 459] Package type '0' reports result: 0
+[2023-10-20 19:27:03.086] [notice ] [bug_report ] [10316: 2956] [60E748: 459] Package type '2' reports result: 2
+[2023-10-20 19:27:03.086] [notice ] [bug_report ] [10316: 2956] [60E748: 462] BugReport is finished with: [2].
